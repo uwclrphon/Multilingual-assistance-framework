@@ -1,0 +1,5 @@
+{
+    "c_code":"gcc -shared -o .\\cppws\\{}.dll .\\c\\{}",
+    "cpp_code":"g++ -shared -o .\\cppws\\{}.dll .\\cpp\\{}",
+    "java_code":"javac -d javaws java\\{}"
+}
